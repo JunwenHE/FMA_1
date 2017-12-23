@@ -1,0 +1,337 @@
+{"name": "All genre", "size":117583,
+ "children":[
+	{"name":"International","size":5271,
+	 "children": [
+			 	  {"name":"Latin America","size":573,
+			       "children": [
+			    				{"name":"Cumbia","size":67},
+			  					{"name":"Salsa","size":12},
+			  					{"name":"Tango","size":30}
+			 				   ]
+			 	  },
+
+		     	  {"name":"French","size":387},
+			 	  {"name":"Reggae - Dub","size":880,
+			  	   "children": [
+						 		{"name":"Reggae - Dancehall","size":94}
+							   ]
+				  },
+
+				  {"name":"Indian","size":216,
+				   "children": [
+						 			{"name":"N. Indian Traditional","size":4},
+									{"name":"South Indian Traditional","size":17},
+									{"name":"Bollywood","size":0}
+						 	   ]
+				  },
+
+				  {"name":"African", "size":329,
+				   "children": [
+									{"name":"Afrobeat","size":110},
+									{"name":"North African","size":40}
+							   ]
+				  },
+
+				  {"name":"Middle East","size":176,
+				   "children": [
+									{"name":"Turkish","size":60}
+
+							   ]
+				  },
+
+				  {"name":"Polka","size":62},
+				  {"name":"Balkan","size":608},
+						
+				  {"name":"Europe","size":727,
+				   "children": [
+						 			{"name":"Romany (Gypsy)", "size":112},
+									{"name":"Spanish","size":115},
+									{"name":"Klezmer","size":57},
+									{"name":"Fado","size":26}
+						 	   ]
+				  },
+
+				  {"name":"Brazilian","size":234},
+				  {"name":"Asia-Far East","size":118},
+				  {"name":"Pacific","size":23},
+				  {"name":"Celtic","size":72},
+				  {"name":"Flamenco","size":47},
+				  {"name":"Latin","size":114}
+			 	]
+	},
+	
+	
+	{"name":"Blues","size":1752,
+	 "children": [
+			 	   {"name":"Gospel","size":66}
+			 	]
+	},
+
+
+	{"name":"Jazz","size":4126,
+	 "children": [
+			 		{"name":"Jazz: Vocal","size":97},
+					{"name":"Free-Jazz","size":1531},
+					{"name":"Jazz: Out","size":291},
+					{"name":"Be-Bop","size":0},
+					{"name":"Big Band/Swing","size":104},
+					{"name":"Modern Jazz","size":107}
+			 	 ]
+			},
+	
+	{"name":"Classical","size":4106,
+	 "children": [
+			 		{"name":"20th Century Classical","size":292},
+					{"name":"Composed Music","size":630},
+					{"name":"Opera","size":161},
+					{"name":"Chamber Music","size":170},
+					{"name":"Choral Music","size":216},
+					{"name":"Symphony","size":25},
+					{"name":"Contemporary Classical","size":1239}
+				 ]
+	},
+
+
+	{"name":"Old-Time / Historic","size":868},
+			
+	{"name":"Country","size":1987,
+	 "children": [
+			 		{"name":"Bluegrass","size":178},
+					{"name":"Americana","size":994},
+					{"name":"Rockabilly","size":128},
+					{"name":"Country & Western","size":79,
+					 "children": [
+						 		 	{"name":"Western Swing","size":4}
+						 		 ]
+					}
+			 	 ]
+	},
+
+	
+	{"name":"Pop","size":13845,
+	 "children": [
+			 		{"name":"Experimental Pop","size":7144},
+					{"name":"Synth Pop","size":1835}
+			 	 ]
+			},
+
+	
+	{"name":"Rock","size":32923,
+	 "children": [
+		 			{"name":"Punk","size":9261,
+		 			 "children": [
+		 			 				{"name":"Electro-Punk","size":563},
+									{"name":"No Wave","size":600},
+									{"name":"Post-Punk","size":1858},
+									{"name":"Hardcore","size":1419,
+									 "children": [
+									 			 	{"name":"Thrash","size":175}
+									 		  	 ]
+									},
+
+									{"name":"Power-Pop","size":1003}
+		 			 			 ]
+		 			},
+
+					{"name":"Post-Rock","size":1952,
+					 "children": [
+					 				{"name":"Space-Rock","size":484}
+								 ]
+					},
+
+					{"name":"Lo-Fi","size":6041},
+					
+					{"name":"Metal","size":1498,
+					 "children": [
+					 				{"name":"Death-Metal","size":196},
+									{"name":"Black-Metal","size":152},
+									{"name":"Grindcore","size":314}
+					 			]
+						},
+
+					{"name":"Krautrock","size":688},
+					{"name":"Loud-Rock","size":2469,
+					 "children": [
+					 				{"name":"Noise-Rock","size":2071,
+					 			     "children": [
+													{"name":"Sludge","size":251}
+					 			     		 	 ]
+					 				}
+					 			]
+						},
+
+					{"name":"Psych-Rock","size":2502},
+					{"name":"Indie-Rock","size":5432},
+					{"name":"Industrial","size":2230},
+					{"name":"Garage","size":3548,
+					 "children": [
+						 			{"name":"Surf","size":265}
+						 		 ]
+						},
+
+					{"name":"New Wave","size":517},
+					{"name":"Progressive","size":795},
+					{"name":"Goth","size":482},
+					{"name":"Shoegaze","size":762},
+					{"name":"Rock Opera","size":116}
+				]
+	},
+	
+	
+	
+	{"name":"Easy Listening","size":730,
+	 "children": [
+	 				{"name":"Easy Listening: Vocal","size":47},
+					{"name":"Lounge","size":440},
+					{"name":"Nu-Jazz","size":120}
+	 		 	 ]
+	},
+	
+	
+	{"name":"Soul-RnB","size":1499,
+	 "children": [
+			 		{"name":"Disco","size":367},
+					{"name":"Funk","size":773,
+					 "children": [
+						 			{"name":"Deep Funk","size":1}
+						 		 ]
+					}
+			 	 ]
+	},
+	
+
+	{"name":"Electronic","size":34413,
+	 "children": [
+			 		{"name":"Ambient Electronic","size":5723},
+					{"name":"Techno","size":2140,
+					 "children": [
+						 			{"name":"Bigbeat","size":189}
+						 		 ]
+					},
+
+					{"name":"House","size":1482,
+					 "children": [
+						 			{"name":"Chill-out","size":823}
+						 		 ]
+					},
+
+					{"name":"Glitch","size":2809},
+					{"name":"Minimal Electronic","size":1013},
+					{"name":"Breakcore - Hard","size":511},
+					{"name":"IDM","size":3472},
+					{"name":"Trip-Hop","size":1751},
+					{"name":"Dance","size":1414},
+
+					{"name":"Chip Music","size":2208,
+					 "children": [
+						 			{"name":"Chiptune","size":1231}
+						 		 ]
+					},
+
+					{"name":"Drum & Bass","size":500},
+					{"name":"Dubstep","size":1144,
+					 "children": [
+						 			{"name":"Skweee","size":78}
+						 		 ]
+						},
+
+					{"name":"Downtempo","size":2061},
+					{"name":"Jungle","size":258}
+				]
+	},
+	
+
+	{"name":"Folk","size":12706,
+	 "children": [
+	 		 		{"name":"Psych-Folk","size":2267},
+					{"name":"Free-Folk","size":753},
+					{"name":"Freak-Folk","size":1289},
+					{"name":"Singer-Songwriter","size":4162},
+					{"name":"British Folk","size":161}
+	 			 ]
+	},
+	
+
+	{"name":"Spoken","size":1876,
+	 "children": [
+			 		{"name":"Comedy","size":217},
+					{"name":"Radio","size":518,
+					 "children": [
+						 			{"name":"Radio Art","size":210},
+									{"name":"Interview","size":122},
+									{"name":"Talk Radio","size":26}
+						 		]
+						},
+
+					{"name":"Spoken Weird","size":490},
+					{"name":"Poetry","size":301},
+					{"name":"Banter","size":9},
+					{"name":"Spoken Word","size":177},
+					{"name":"Radio Theater","size":73},
+					{"name":"Musical Theater","size":18}
+			 	]
+	},
+	
+
+	{"name":"Hip-Hop","size":8389,
+	 "children": [
+			 		{"name":"Nerdcore","size":84},
+					{"name":"Alternative Hip-Hop","size":740},
+					{"name":"Rap","size":638},
+					{"name":"Breakbeat","size":735},
+					{"name":"Abstract Hip-Hop","size":202},
+					{"name":"Wonky","size":56},
+					{"name":"Hip-Hop Beats","size":1192}
+			 	]
+	},
+	
+
+	{"name":"Experimental","size":38154,
+	 "children": [
+			 		{"name":"Avant-Garde","size":8693},
+
+					{"name":"Novelty","size":914,
+					 "children": [
+						 			{"name":"Sound Effects","size":304,
+						 			 "children": [
+						 			 				{"name":"Holiday","size":268,
+						 			 			 	 "children": [
+						 			 			 					{"name":"Christmas","size":72}
+						 			 			 				 ]
+						 			 				}
+						 			 			]
+						 			},
+
+									{"name":"Kid-Friendly","size":201}
+						 		]
+					},
+
+					{"name":"Audio Collage","size":774},
+					{"name":"Field Recordings","size":3237},
+					{"name":"Noise","size":7268},
+					{"name":"Electroacoustic","size":6110},
+					{"name":"Drone","size":2546},
+					{"name":"Unclassifiable","size":1511},
+					{"name":"Sound Poetry","size":682},
+					{"name":"Sound Collage","size":1916},
+					{"name":"Musique Concrete","size":2957},
+					{"name":"Improv","size":4261},
+					{"name":"Minimalism","size":1392},
+					{"name":"Sound Art","size":1414}
+			 	 ]
+	},
+	
+		
+	{"name":"Instrumental","size":14938,
+	 "children": [
+			 		{"name":"Soundtrack","size":5913,
+			 		 "children": [
+			 			 			{"name":"Compilation","size":338}
+			 			 		 ]
+			 			},
+						{"name":"Ambient","size":7206},
+						{"name":"New Age","size":360}
+			 	 ]
+	}	
+		]
+}
